@@ -1,0 +1,29 @@
+{
+  "name": "poke-spawn",
+  "version": "1.0.0",
+  "description": "A simple pokemon website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaZenn-7/poke-spawner.git"
+  },
+  "keywords": [
+    "Pokemon",
+    "PokeAPI",
+    "JavaScript"
+  ],
+  "author": "ramo s",
+  "license": "BSD-4-Clause",
+  "bugs": {
+    "url": "https://github.com/KaZenn-7/poke-spawner/issues"
+  },
+  "homepage": "https://github.com/KaZenn-7/poke-spawner#readme",
+  "dependencies": {
+    "express": "^4.20.0",
+    "express-handlebars": "^8.0.1",
+    "handlebars": "^4.7.8"
+  }
+}
